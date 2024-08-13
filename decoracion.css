@@ -1,0 +1,196 @@
+@import 'https://fonts.googleapis.com/css?family=Press+Start+2P';
+p{
+    color: white;
+    text-align: start;
+
+}
+
+#color_negro{
+    color: black;
+}
+#TablaPrincipal{
+    width: 1400px;
+    height: 1000px;
+    border: 3px solid;
+    background: rgb(55, 49, 49);
+}
+#TablaHead{
+    border: 3px solid;
+    background: black;
+    display: block;
+    height: 100px;
+   
+    
+}
+#TablaBotones{
+    position:relative;
+    top: 3.9em;
+    border: 3px solid;
+    display: block;
+    width: 400px;
+    height: 30px;
+    
+}
+.DivBotones{
+    display: inline;
+}
+.DecoracionBotones{
+    display: inline;
+    width:97px;
+    height:30px ;
+    background: white;
+    border: none;
+
+}
+#Logo{
+    width: 90px;
+    height: 90px;
+    
+    
+
+}
+#Logodiv{
+    display: inline-block;
+    border: 3px solid;
+    position: relative;
+    left: 76em;
+    bottom: 34.5px;
+    height: 90px;
+
+}
+#Titulo{
+    display: inline-block;
+    position: relative;
+    bottom: 95px;
+    left: 40em;
+    
+
+
+}
+#letras{
+    font-size: auto;
+    font-family: 'arial narrow';    
+    color: white;                                                              
+                                                
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+#tablaBody{
+    border: 3px solid;
+    background: white;
+    display: block;
+    height: 800px;
+
+
+}
+#divtablapeque{
+    display: inline-block;
+    border: 4px solid;
+    position: relative;
+    bottom: 50em;
+    left: 24em;
+    width: 1000px;
+    height: 30px ;
+}
+.divbotonespeque{
+    display: inline-block;
+    width: 192.9px;
+    
+
+
+}
+.botonespeque{
+    width: 196.6px;
+    height: 29.9px;
+
+}
+
+#divtabla{
+    border: 3px solid;
+    display: inline-block;
+    height: 795.5px;
+    width: 379px;
+    border: 2px outset;
+}
+.videos{
+    width: 360px;
+    height: 190px;
+    border: 4px solid;
+    color :black;
+
+}
+#divtablagrande{
+    display: inline-block;
+ 
+    width: 1000;
+    height: 754 px;
+    position: relative;
+    bottom: 49.9em;
+    left: 24em;
+}
+#divjuegos{
+    display: block;
+    width: 1000px;
+    border: 2px outset;
+    position: relative;
+    left: 2.5px;
+  
+    
+}
+#juegosTitulos{
+    text-align: center;
+    font-size: auto;
+    font-family: 'helvetica';   
+
+}
+#divrooms{
+    border: 3px solid;
+    width: 1003px;
+    height: 685px;
+}
+.divimgroomimg{
+    display: inline-block;
+    width: 329.3px;
+}
+.botonrooms{
+    width: 334.3px;
+    height: 228px;
+}
+.imgroom{
+    border: 2px solid;
+    width: 314.3px;
+    height: 218px;
+    position: relative;
+    right: 1px;
+    top: 2px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+#foottable{
+    border: 2px outset;
+    height: 85px;
+    
+}
+#divfinal{
+    height: 80px;
+    width: 700px;
+    border: 2px solid;
+}
+#textofinal{
+    display: inline;
+}
+
+.divbotonesfinal{
+    display: inline-block;
+    
+    border: 2px solid;
+    position: relative;
+    bottom: 83.5px;
+    left: 44.3em;
+}
+.botonesfinal{
+    display: inline-block;
+    height:80px ;
+    width: 130px;
+}
